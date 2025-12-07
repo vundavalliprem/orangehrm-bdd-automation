@@ -1,1 +1,30 @@
-/target/
+# Compiled class files
+*.class
+target/
+bin/
+
+# Eclipse files
+.settings/
+.classpath
+.project
+
+# Screenshots - DO NOT COMMIT
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Test output
+test-output/
+reports/
+cucumber-reports/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/
